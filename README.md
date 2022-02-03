@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Probal</h1>
-<h3 align="center">A am a passionate Programmer and a gamer from India.</h3>
+<h3 align="center">A am a passionate Programmer and a Gamer from India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=master-collider&label=Profile%20views&color=0e75b6&style=flat" alt="master-collider" /> </p>
 
@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [https://master-collider.github.io/files/resume.pdf](https://master-collider.github.io/files/resume.pdf)
 
-- ⚡ Fun fact **I love anime**
+- ⚡ **I love Anime**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
