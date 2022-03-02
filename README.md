@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=master-collider" alt="master-collider" /></a> </p>
 
-- 🌱 I’m currently learning **Jetpack Compose**
+- 🌱 I’m currently learning **nes emulator**
 
 - 👨‍💻 All of my projects are available at [https://master-collider.github.io/](https://master-collider.github.io/)
 
@@ -13,21 +13,12 @@
 
 - 💬 Ask me about **C++ and Java**
 
-- 📫 How to reach me **probaldeepsaikia@hotmail.com**
-
 - 📄 Know about my experiences [https://master-collider.github.io/files/resume.pdf](https://master-collider.github.io/files/resume.pdf)
-
-- ⚡ **I love Anime**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/probal-d-s-558946101" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="probal-d-s-558946101" height="30" width="40" /></a>
 <a href="https://fb.com/probaldeepsaikia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="probaldeepsaikia" height="30" width="40" /></a>
-<a href="/http://fetchrss.com/rss/61f6730d2472a747436c033361f67347f7c9c419c32664a2.xml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="http://fetchrss.com/rss/61f6730d2472a747436c033361f67347f7c9c419c32664a2.xml" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
